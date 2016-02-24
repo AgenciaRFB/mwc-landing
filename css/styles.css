@@ -1,0 +1,55 @@
+body, html {
+}
+
+#header {
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    background: #131C24;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+video {
+    max-width: 500px;
+    background-color: #ddd;
+}
+
+.video-container {
+    text-align: center;
+}
+
+hr {
+    width: 100vw;
+    position: absolute;
+    left: 0;
+}
+
+p {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+p img {
+    max-width:600px;
+}
+
+#hashtag-rank {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#hashtag-rank td {
+    vertical-align: middle;
+}
+
+#hashtag-rank th {
+    text-align: center;
+}
+
+img.absolute {
+
+}
